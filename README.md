@@ -80,6 +80,6 @@ TEST: for adding or changing tests
 ⸻
 
 🧠 Acknowledgements
-	•	PsychoPy for stimulus presentation (https://www.psychopy.org)
-	•	R and the tidyverse for data processing (https://cran.r-project.org)
-	•	My website (https://tcjq.eu)
+- [PsychoPy](https://www.psychopy.org) for stimulus presentation  
+- [R and the tidyverse](https://cran.r-project.org) for data processing  
+- [My website](https://tcjq.eu)
