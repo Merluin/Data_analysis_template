@@ -19,7 +19,7 @@ This R project provides a clean and modular template for analyzing behavioral da
 ---
 
 ## 📂 Project Structure
-
+```bash
 AnalysisRproj/
 ├── DESCRIPTION             # R package metadata
 ├── R/                       # All core analysis functions
@@ -29,7 +29,7 @@ AnalysisRproj/
 ├── LICENSE                  # MIT License
 ├── README.md                # You’re here!
 └── Data_analysis.Rproj      # RStudio project file
-
+```
 ---
 
 ## 🚀 Getting Started
