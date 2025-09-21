@@ -42,7 +42,7 @@ Or clone it manually:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/AnalysisRproj.git
-
+```
 2. Open the project
 
 Open Data_analysis.Rproj in RStudio.
@@ -50,8 +50,9 @@ Open Data_analysis.Rproj in RStudio.
 3. Load dependencies
 
 Install required packages if you don’t already have them:
+```bash
 install.packages(c("dplyr", "tidyr", "readxl", "openxlsx", "ggplot2", "afex", "emmeans", "effectsize", "devtools"))
-
+```
 4. Run the analysis
  write your analysis and keep the scripts in scripts folder
  
